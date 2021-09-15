@@ -1,0 +1,40 @@
+.bd {
+  border-bottom-color: #0097a7;
+  border-bottom-style: solid;
+}
+
+.tap {
+  display: block;
+  margin: 1rem;
+}
+
+.pop {
+  display: inline-flex;
+}
+
+.coleman {
+  background-color: #0097a7;
+
+}
+
+.becardino {
+  background-color: #0097a7;
+  border-color: white;
+  border-style: solid;
+  color: white;
+}
+
+.size {
+  font-size: 25px;
+  padding-left: 2rem;
+}
+
+.boton {
+  border-color: white;
+  border-style: solid;
+  padding: 0.5rem;
+  border-radius: 0.5px:
+  color: white;
+  text-decoration: none;
+
+}
